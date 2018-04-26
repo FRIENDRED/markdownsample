@@ -10,11 +10,11 @@
 * bullet2
 
 ```C++
-puts "this is code"
+void ofApp::something "this is code"
 if this than that
 ```
 
 paragraph [text] here
 
 ## Office hour
-attend this office hour with [quick registration page here](http://friendred.me/about/)
+hyperlink [quick registration page here](http://friendred.me/about/)
